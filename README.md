@@ -10,8 +10,9 @@
 First Cloud Journey (FCJ) Internship Program là chương trình thực tập chuyên sâu về AWS Cloud Computing với thời gian chuẩn 3 tháng. Tuy nhiên, các thực tập sinh xuất sắc có thể xin xác nhận hoàn thành sớm sau 2 tháng nếu đáp ứng đầy đủ các tiêu chí nghiêm ngặt.
 
 # 🏆 Mục tiêu chương trình
-Phát triển kỹ năng AWS Cloud Architecture và DevOps
-Xây dựng portfolio dự án thực tế trên AWS
-Chuẩn bị cho AWS Certifications
-Phát triển kỹ năng technical writing và communication
-Đóng góp cho cộng đồng AWS Việt Nam
+
+- Phát triển kỹ năng AWS Cloud Architecture và DevOps
+- Xây dựng portfolio dự án thực tế trên AWS
+- Chuẩn bị cho AWS Certifications
+- Phát triển kỹ năng technical writing và communication
+- Đóng góp cho cộng đồng AWS Việt Nam
